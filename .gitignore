@@ -1,0 +1,9 @@
+.env
+.vscode
+static/upload
+static/predict
+static/NEW img
+static/roi
+final db.sql
+results.csv
+/node_modules
